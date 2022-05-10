@@ -1,9 +1,8 @@
-# my-prompt
-My ZSH Prompt 
+# My ZSH Prompt 
 
-Nothing special here just my ZSH prompt. I like is because it gives me the key info  and when copying out commands for testing notes I can get the time and date aswell 
+Nothing special here just sharing my ZSH prompt. I like is because it gives me the key info  and when copying out commands for testing notes I can get the time and date aswell 
 
-![My Prompt](/ps1.jpg)
+![My Prompt](assets/ps1.png)
 
 ## Install 
 
@@ -17,7 +16,14 @@ I use this on Kali - no clue how it plays ball on other distros.. i would assmum
 
 `subl /root/.zshrc`
 
-3) find the configure_prompt function and comment out the PROMPT variable within the twoline case 
-on the line below paste in the code in pr
+3) find the **configure_prompt** function and comment out the **PROMPT** variable within the **twoline** case 
 
-```
+4) on the line below paste in the code from **prompt.txt**
+
+![My Prompt](assets/replacing-prompt.png)
+
+
+
+## Furture
+
+I will put out a few variants/different colours when i can be botherd
