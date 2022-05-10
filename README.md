@@ -18,12 +18,15 @@ I use this on Kali - no clue how it plays ball on other distros.. i would assmum
 
 3) find the **configure_prompt** function and comment out the **PROMPT** variable within the **twoline** case 
 
-4) on the line below paste in the code from **prompt.txt**
+4) On the line below paste in the code from [prompt.txt](https://raw.githubusercontent.com/shifty0g/zsh-prompt/main/prompt.txt)
 
 ![My Prompt](assets/replacing-prompt.png)
 
+If your primiary interface is not **eth0** then change it 
+
+5) Save and close. Open up a new terminal tab and you should have a new snazzy prompt.
 
 
-## Furture
+## Future
 
 I will put out a few variants/different colours when i can be botherd
