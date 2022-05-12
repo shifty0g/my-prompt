@@ -1,6 +1,6 @@
-# My ZSH Prompt 
+# shiftys-zsh-theme
 
-Nothing special here just sharing my ZSH prompt. I like is because it gives me the key info  and when copying out commands for testing notes I can get the time and date aswell 
+This is my zsh theme. i nmishmashed a few things together with the kali one. I like is because it gives me the key info  and when copying out commands for testing notes I can get the time and date aswell 
 
 ![My Prompt](assets/ps1.png)
 
@@ -29,4 +29,4 @@ If your primiary interface is not **eth0** then change it
 
 ## Future
 
-I will put out a few variants/different colours when i can be botherd
+I will put out a few variants/different colours when i can be botherd. im thinking green and yellow 
