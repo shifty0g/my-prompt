@@ -1,6 +1,6 @@
 # shiftys-zsh-theme
 
-This is my zsh theme. i nmishmashed a few things together with the kali one. I like is because it gives me the key info  and when copying out commands for testing notes I can get the time and date aswell 
+This is my zsh theme. i mishmashed a few  together with the kali one. I like is because it gives me the key info  and when copying out commands for testing notes I can get the time and date aswell 
 
 ![My Prompt](assets/ps1.png)
 
